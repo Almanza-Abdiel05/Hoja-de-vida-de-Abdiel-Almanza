@@ -1,11 +1,8 @@
 # Hoja-de-vida-de-Abdiel-Almanza
-Hoja de vida
 HOJA DE VIDA CON HTML
 
 <html>
-<head>
-<title> Hoja De Vida De Abdiel Almanza</title>
-
+<head> Hoja De Vida De Abdiel Almanza
 
 </head>
 <body bgcolor="yellow">
@@ -14,7 +11,7 @@ HOJA DE VIDA CON HTML
 
 <P><b><H2>DATOS PRESONALES</H2></b></P>
 <TR>
-<TABLE border="1" width="60%" height="160" >
+<TABLE border="1" width="200" height="160" >
 <TR><TD><B>Cedula:  </B></TD> <TD >8-978-225</TD>
 <TD rowspan="12"><img src="Foto de Grad 03.2.jpeg" width="788" height="989"></TD> </TR>
 <TR><TD><B>Apellidos:  </B></TD> <TD>Almanza Espino</TD>   
@@ -66,7 +63,7 @@ HOJA DE VIDA CON HTML
 
 <P><b><H2><b>REFERENCIAS PERSONALES</H2></b></P>
 
-<TABLE BORDER="1"width="49%" height="45">
+<TABLE BORDER="1"width="80" height="120">
 <tr><td><b>Ing. Franco Torres</b></td><TD>6515-5948</td></tr>
 <tr><td><b>Ing. Alexandra Espino</b></td><td>6660-3278</td></tr>
 <tr><td><b>Mgst.Fernanda  Magallan </b></td><td>6543-2343</td></tr>
