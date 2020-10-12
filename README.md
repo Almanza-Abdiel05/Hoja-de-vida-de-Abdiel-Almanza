@@ -8,10 +8,11 @@ HOJA DE VIDA CON HTML
 <p><b><h1><font> HOJA DE VIDA</font>  </H1></b></P>
 
 <hr width="600" SIZE =15 bgcolor >
-
 DATOS PRESONALES
 
 <TR>
+  <P><b><H2>DATOS PRESONALES</H2></b></P>
+ 
 <TABLE border="1" width="90%" height="160" >
 <TR><TD><B>Cedula:  </B></TD> <TD >8-978-225</TD>
 <TD rowspan="12"><img src="Foto de Grad 03.2.jpeg" width="788" height="989"></TD> </TR>
@@ -34,7 +35,6 @@ DATOS PRESONALES
   <TD>221-0351</TD> 
 <TR><TD><B>Celular:  </B></TD>
   <TD>6623-9191 </TD> 
-
 </TABLE>
 
 <P><b><H2>ESTUDIOS REALIZADOS</H2></b></P>
