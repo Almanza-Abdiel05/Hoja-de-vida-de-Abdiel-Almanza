@@ -1,8 +1,6 @@
-# Hoja-de-vida-de-Abdiel-Almanza
-
+<!DOCTYPE html>
 <html>
 <head> Hoja De Vida De Abdiel Almanza
-
 </head>
 <body bgcolor="yellow">
 <p><b><h1><font> HOJA DE VIDA</font>  </H1></b></P>
@@ -10,7 +8,7 @@
 
 <P><b><H2>DATOS PRESONALES</H2></b></P>
 <TR>
-<TABLE border="1" width="200" height="160" >
+<TABLE border="1" width="4000" height="160" >
 <TR><TD><B>Cedula:  </B></TD> <TD >8-978-225</TD>
 <TD rowspan="12"><img src="Foto de Grad 03.2.jpeg" width="788" height="989"></TD> </TR>
 <TR><TD><B>Apellidos:  </B></TD> <TD>Almanza Espino</TD>   
@@ -49,6 +47,7 @@
 
 <P><b><H2>TITULO OBTENIDO</H2></b></P>
 
+
 <TABLE BORDER="1"width="49%" height="45">
 <tr><td><b>BACHILLER</b></td><TD> <a href="http://190.152.10.222/download/0802085332_18012013_1851.html">APLICACIONES INFORMATICA</a></td></tr>
 </table>
@@ -62,13 +61,12 @@
 
 <P><b><H2><b>REFERENCIAS PERSONALES</H2></b></P>
 
+
 <TABLE BORDER="1"width="80" height="120">
 <tr><td><b>Ing. Franco Torres</b></td><TD>6515-5948</td></tr>
 <tr><td><b>Ing. Alexandra Espino</b></td><td>6660-3278</td></tr>
 <tr><td><b>Mgst.Fernanda  Magallan </b></td><td>6543-2343</td></tr>
 </table>
 
-
-</TABLE>
 </body>
 </html>
