@@ -1,5 +1,4 @@
 # Hoja-de-vida-de-Abdiel-Almanza
-HOJA DE VIDA CON HTML
 
 <html>
 <head> Hoja De Vida De Abdiel Almanza
