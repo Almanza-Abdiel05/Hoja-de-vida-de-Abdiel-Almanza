@@ -3,15 +3,14 @@ HOJA DE VIDA CON HTML
 
 <html>
 <head>
-  Hoja De Vida De Abdiel Almanza
-
-
-</head>
+  
 <body bgcolor="yellow">
 <p><b><h1><font> HOJA DE VIDA</font>  </H1></b></P>
+
 <hr width="600" SIZE =15 bgcolor >
 
-<P><b><H2>DATOS PRESONALES</H2></b></P>
+DATOS PRESONALES
+
 <TR>
 <TABLE border="1" width="90%" height="160" >
 <TR><TD><B>Cedula:  </B></TD> <TD >8-978-225</TD>
