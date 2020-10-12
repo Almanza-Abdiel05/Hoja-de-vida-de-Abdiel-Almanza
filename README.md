@@ -13,7 +13,7 @@ DATOS PRESONALES
 <TR>
   <P><b><H2>DATOS PRESONALES</H2></b></P>
  
-<TABLE border="1" width="100%" height="160" >
+<TABLE border="1" width="200" height="160" >
 <TR><TD><B>Cedula:  </B></TD> <TD >8-978-225</TD>
 <TD rowspan="12"><img src="Foto de Grad 03.2.jpeg" width="788" height="989"></TD> </TR>
 <TR><TD><B>Apellidos:  </B></TD> <TD>Almanza Espino</TD>   
