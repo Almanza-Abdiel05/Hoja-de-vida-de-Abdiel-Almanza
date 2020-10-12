@@ -2,8 +2,10 @@
 <html>
 <head> Hoja De Vida De Abdiel Almanza
 </head>
+  
 <body bgcolor="yellow">
 <p><b><h1><font> HOJA DE VIDA</font>  </H1></b></P>
+
 <hr width="600" SIZE =15 bgcolor >
 
 <P><b><H2>DATOS PRESONALES</H2></b></P>
